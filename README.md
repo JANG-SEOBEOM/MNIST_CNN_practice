@@ -35,7 +35,7 @@
 * CNN 아키텍처 직접 설계
 * 데이터 전처리
 
-  * 정규화 (0~255 → 0~1)
+  * 정규화 (0 ~ 255 → 0 ~ 1)
   * Reshape (28x28x1)
   * One-hot Encoding
 * Batch Normalization을 통한 학습 안정화
